@@ -1,1 +1,1 @@
-# PowerDevTools
+# DevTools for model-driven apps
